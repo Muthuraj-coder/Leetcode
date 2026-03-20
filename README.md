@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muthuraj-coder/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0032-longest-valid-parentheses](https://github.com/Muthuraj-coder/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Muthuraj-coder/Leetcode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Muthuraj-coder/Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Muthuraj-coder/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
