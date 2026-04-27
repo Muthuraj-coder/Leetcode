@@ -1,8 +1,6 @@
-int romanToInt(char *s) {
-    int result = 0;
-    int prevValue = 0;
-
-    for (int i = 0; i < strlen(s); i++) {
+int romanToInt(char* s) {
+    int result=0,prevvalue=0;
+    for(int i=0;i<strlen(s);i++){
         int currValue = 0;
         switch (s[i]) {
             case 'I':
@@ -27,15 +25,12 @@ int romanToInt(char *s) {
                 currValue = 1000;
                 break;
         }
-
-        if (currValue > prevValue) {
-            result += currValue - 2 * prevValue; 
-        } else {
-            result += currValue;
+        if(currValue>prevvalue){
+            result += currValue - 2 * prevvalue; 
+        }else{
+            result+=currValue;
         }
-        
-        prevValue = currValue;
+        prevvalue=currValue;
     }
-
     return result;
 }
