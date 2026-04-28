@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Muthuraj-coder/Leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Muthuraj-coder/Leetcode/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +62,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Muthuraj-coder/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Muthuraj-coder/Leetcode/tree/master/0013-roman-to-integer) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Muthuraj-coder/Leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Muthuraj-coder/Leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Muthuraj-coder/Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Muthuraj-coder/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
