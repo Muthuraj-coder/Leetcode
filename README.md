@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Muthuraj-coder/Leetcode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Muthuraj-coder/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/0189-rotate-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Muthuraj-coder/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Muthuraj-coder/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Muthuraj-coder/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/0189-rotate-array) |
 ## Depth-First Search
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Muthuraj-coder/Leetcode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Muthuraj-coder/Leetcode/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/Muthuraj-coder/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
