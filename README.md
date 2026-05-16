@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Muthuraj-coder/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Muthuraj-coder/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/0189-rotate-array) |
+| [2235-add-two-integers](https://github.com/Muthuraj-coder/Leetcode/tree/master/2235-add-two-integers) |
 ## Depth-First Search
 |  |
 | ------- |
