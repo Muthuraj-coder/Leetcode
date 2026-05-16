@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Muthuraj-coder/Leetcode/tree/master/0200-number-of-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Muthuraj-coder/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Muthuraj-coder/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Muthuraj-coder/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Muthuraj-coder/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Muthuraj-coder/Leetcode/tree/master/1748-sum-of-unique-elements) |
