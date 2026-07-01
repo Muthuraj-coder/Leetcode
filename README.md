@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Muthuraj-coder/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Muthuraj-coder/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Muthuraj-coder/Leetcode/tree/master/0125-valid-palindrome) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Muthuraj-coder/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Muthuraj-coder/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Muthuraj-coder/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Muthuraj-coder/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Muthuraj-coder/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/0189-rotate-array) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Muthuraj-coder/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2235-add-two-integers](https://github.com/Muthuraj-coder/Leetcode/tree/master/2235-add-two-integers) |
 ## Depth-First Search
 |  |
