@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Muthuraj-coder/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Muthuraj-coder/Leetcode/tree/master/0200-number-of-islands) |
+| [0605-can-place-flowers](https://github.com/Muthuraj-coder/Leetcode/tree/master/0605-can-place-flowers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Muthuraj-coder/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Muthuraj-coder/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Muthuraj-coder/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Muthuraj-coder/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Muthuraj-coder/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
