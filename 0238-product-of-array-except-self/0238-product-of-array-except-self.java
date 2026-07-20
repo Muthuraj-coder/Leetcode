@@ -1,7 +1,7 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-        int [] lp = new int[nums.length];
-        int [] rp = new int[nums.length];
+        int [] lp = new int [nums.length];
+        int [] rp = new int [nums.length];
 
         lp[0]=1;
         rp[nums.length-1]=1;
@@ -15,11 +15,10 @@ class Solution {
         }
 
         for(int i=0;i<nums.length;i++){
-            if(i==0) nums[i] = rp[i];
+            if(i==0) nums[i]=rp[i];
             else if(i==nums.length-1) nums[i]=lp[i];
-            else nums[i] = lp[i] * rp[i];
+            else nums[i]=lp[i]*rp[i];
         }
-
         return nums;
     }
 }
