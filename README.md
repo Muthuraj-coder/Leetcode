@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Muthuraj-coder/Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Muthuraj-coder/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/Muthuraj-coder/Leetcode/tree/master/0605-can-place-flowers) |
+| [0881-boats-to-save-people](https://github.com/Muthuraj-coder/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Muthuraj-coder/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Muthuraj-coder/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Muthuraj-coder/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Muthuraj-coder/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muthuraj-coder/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0881-boats-to-save-people](https://github.com/Muthuraj-coder/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Muthuraj-coder/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Muthuraj-coder/Leetcode/tree/master/0169-majority-element) |
+| [0881-boats-to-save-people](https://github.com/Muthuraj-coder/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,4 +136,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Muthuraj-coder/Leetcode/tree/master/0605-can-place-flowers) |
+| [0881-boats-to-save-people](https://github.com/Muthuraj-coder/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
