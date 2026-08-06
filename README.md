@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Muthuraj-coder/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2235-add-two-integers](https://github.com/Muthuraj-coder/Leetcode/tree/master/2235-add-two-integers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Muthuraj-coder/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Muthuraj-coder/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Muthuraj-coder/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Muthuraj-coder/Leetcode/tree/master/0226-invert-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Muthuraj-coder/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
