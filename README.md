@@ -124,10 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Muthuraj-coder/Leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Muthuraj-coder/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Muthuraj-coder/Leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Muthuraj-coder/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -168,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Muthuraj-coder/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/Muthuraj-coder/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Muthuraj-coder/Leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Muthuraj-coder/Leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
