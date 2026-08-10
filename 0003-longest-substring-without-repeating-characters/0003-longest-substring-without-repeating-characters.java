@@ -9,7 +9,7 @@ class Solution {
                     break;
                 }
                 set.add(ch);
-                max=Math.max(max,j-i+1);
+                max=Math.max(max,set.size());
             }
         }
         return max;
