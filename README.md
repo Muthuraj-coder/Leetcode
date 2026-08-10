@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Muthuraj-coder/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0463-island-perimeter](https://github.com/Muthuraj-coder/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Muthuraj-coder/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0554-brick-wall](https://github.com/Muthuraj-coder/Leetcode/tree/master/0554-brick-wall) |
 | [0605-can-place-flowers](https://github.com/Muthuraj-coder/Leetcode/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/Muthuraj-coder/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Muthuraj-coder/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Muthuraj-coder/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Muthuraj-coder/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Muthuraj-coder/Leetcode/tree/master/0169-majority-element) |
+| [0554-brick-wall](https://github.com/Muthuraj-coder/Leetcode/tree/master/0554-brick-wall) |
 | [0904-fruit-into-baskets](https://github.com/Muthuraj-coder/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1748-sum-of-unique-elements](https://github.com/Muthuraj-coder/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## String
