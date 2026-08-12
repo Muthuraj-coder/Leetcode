@@ -4,28 +4,28 @@ class Solution {
         int left = 0, right = matrix[0].length - 1;
         List<Integer> spiral = new ArrayList<>();
 
-        while (top <= bottom && left <= right) {
-            for (int i = left; i <= right; i++)
+        while(left<=right && top<=bottom){
+            for(int i=left;i<=right;i++){
                 spiral.add(matrix[top][i]);
+            }
             top++;
-
-            for (int j = top; j <= bottom; j++)
-                spiral.add(matrix[j][right]);
+            for(int i=top;i<=bottom;i++){
+                 spiral.add(matrix[i][right]);
+            }
             right--;
-
-            if (top <= bottom) {
-                for (int k = right; k >= left; k--)
-                    spiral.add(matrix[bottom][k]);
+            if(top<=bottom){
+                for(int i=right;i>=left;i--){
+                    spiral.add(matrix[bottom][i]);
+                }
                 bottom--;
             }
-
-            if (left <= right) {
-                for (int l = bottom; l >= top; l--)
-                    spiral.add(matrix[l][left]);
-                left++;
+            if(left<=right){
+                for(int i=bottom;i>=top;i--){
+                    spiral.add(matrix[i][left]);
+                }
+                left++; 
             }
         }
-
         return spiral;
     }
 }
