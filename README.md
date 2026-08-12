@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Muthuraj-coder/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Muthuraj-coder/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Muthuraj-coder/Leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Muthuraj-coder/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Muthuraj-coder/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Muthuraj-coder/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Muthuraj-coder/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Muthuraj-coder/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Muthuraj-coder/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Muthuraj-coder/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Muthuraj-coder/Leetcode/tree/master/0463-island-perimeter) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Muthuraj-coder/Leetcode/tree/master/0054-spiral-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Muthuraj-coder/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 ## Binary Search
 |  |
