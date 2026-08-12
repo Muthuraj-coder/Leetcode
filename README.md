@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Muthuraj-coder/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Muthuraj-coder/Leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Muthuraj-coder/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Muthuraj-coder/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muthuraj-coder/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Muthuraj-coder/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Muthuraj-coder/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Muthuraj-coder/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/Muthuraj-coder/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Muthuraj-coder/Leetcode/tree/master/0169-majority-element) |
 | [0554-brick-wall](https://github.com/Muthuraj-coder/Leetcode/tree/master/0554-brick-wall) |
 | [0904-fruit-into-baskets](https://github.com/Muthuraj-coder/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -220,9 +222,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Muthuraj-coder/Leetcode/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/Muthuraj-coder/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/Muthuraj-coder/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Muthuraj-coder/Leetcode/tree/master/0002-add-two-numbers) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Muthuraj-coder/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
