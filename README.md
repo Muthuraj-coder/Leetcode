@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Muthuraj-coder/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Muthuraj-coder/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Muthuraj-coder/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Muthuraj-coder/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/Muthuraj-coder/Leetcode/tree/master/0554-brick-wall) |
 | [0904-fruit-into-baskets](https://github.com/Muthuraj-coder/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1748-sum-of-unique-elements](https://github.com/Muthuraj-coder/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Muthuraj-coder/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Muthuraj-coder/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Muthuraj-coder/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Muthuraj-coder/Leetcode/tree/master/0002-add-two-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Muthuraj-coder/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
