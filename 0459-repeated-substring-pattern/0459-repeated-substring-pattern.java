@@ -3,13 +3,19 @@ class Solution {
         int n = s.length();
 
         for(int i=1;i<n;i++){
-            String sub = s.substring(0,i);
-            String res = "";
 
-            while(res.length()<n){
-                res+=sub;
+            if(n%i!=0) continue;
+
+            String sub = s.substring(0,i);
+            boolean ans=true;
+            
+            for(int len=0;len<n;len++){
+                if(s.charAt(len)!=sub.charAt(len%i)){
+                    ans=false;
+                    break;
+                }
             }
-            if(res.equals(s)){
+            if(ans){
                 return true;
             }
         }
