@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Muthuraj-coder/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Muthuraj-coder/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Muthuraj-coder/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Muthuraj-coder/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/Muthuraj-coder/Leetcode/tree/master/0554-brick-wall) |
 | [0904-fruit-into-baskets](https://github.com/Muthuraj-coder/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1748-sum-of-unique-elements](https://github.com/Muthuraj-coder/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Muthuraj-coder/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Muthuraj-coder/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Muthuraj-coder/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Muthuraj-coder/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Muthuraj-coder/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Muthuraj-coder/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Muthuraj-coder/Leetcode/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/Muthuraj-coder/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Muthuraj-coder/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
